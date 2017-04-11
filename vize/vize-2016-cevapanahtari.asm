@@ -11,8 +11,8 @@
 ; yuksek degerlikli kisimlariyla degistirin.
 ; c cikki:
 ; Dizinin elemanlarinin indislerini kontrol ettirin, indis cift sayiysa
-; elamanin ikilik degerini iki kere sola kaydirin, elemanin degeri tek
-; sayiysa elemanin ikilik degerini bir kere sola kaydirin.
+; elamanin ikilik degerini iki kere sola kaydirin, elemanin indisinin degeri
+; tek sayiysa elemanin ikilik degerini bir kere sola kaydirin.
 ; (soru siklari, program kodlarindan ve aciklama satirlarindan tahmini olarak yazilmistir)
 
 .model small
